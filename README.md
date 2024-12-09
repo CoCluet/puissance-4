@@ -1,7 +1,7 @@
 
 ## Présentation
 
-Ce projet est une application du célèbre jeu Puissance 4, réalisée dans le cadre d'un projet scolaire en 2021. L'application entièrement codée en Java.
+Ce projet est une application du célèbre jeu Puissance 4, réalisée dans le cadre d'un projet scolaire en 2021. L'application est entièrement codée en Java.
 
 ## Fonctionnalités
 
