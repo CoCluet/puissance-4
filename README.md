@@ -43,7 +43,7 @@ cd src
 javac -d ../bin App.java
 ```
 
-3) Puis lancer l'application avec la commande :
+3) Puis lancez l'application avec la commande :
 ```bash
 java -cp ../bin App
 ```
@@ -52,9 +52,7 @@ java -cp ../bin App
 ## Auteurs
 
 - Corentin CLUET
-  
 Contact : cluetcorentin@gmail.com
 
 - Yann Marchelli
-
 Contact : yann.marchelli@live.fr
