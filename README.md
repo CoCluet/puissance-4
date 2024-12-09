@@ -51,8 +51,6 @@ java -cp ../bin App
 
 ## Auteurs
 
-- Corentin CLUET
-Contact : cluetcorentin@gmail.com
+- Corentin CLUET, cluetcorentin@gmail.com
 
-- Yann Marchelli
-Contact : yann.marchelli@live.fr
+- Yann Marchelli, yann.marchelli@live.fr
